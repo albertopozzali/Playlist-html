@@ -23,12 +23,35 @@ th, td{
     background-color: rgb(0, 162, 255);
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
-#MoodChill th {
-    background-color: rgb(255, 187, 0);
+#MoodTriste td:hover {
+    background-color: rgb(0, 162, 255);
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-weight: 600;
+}
+#MoodChill th {
+    background-color: rgb(0, 195, 46);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+#MoodChill td:hover {
+    background-color: rgb(0, 195, 46);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-weight: 600;
 }
 #MoodFesta th {
     background-color: rgb(255, 0, 0);
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
-
+#MoodFesta td:hover {
+    background-color: rgb(255, 0, 0);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-weight: 600;
+}
+#Estate2025 th {
+    background-color: rgb(202, 172, 0);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+#Estate2025 td:hover {
+    background-color: rgb(202, 172, 0);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-weight: 600;
+}
